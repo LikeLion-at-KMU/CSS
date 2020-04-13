@@ -1,5 +1,5 @@
 # 국민대학교 멋쟁이사자처럼 8기
-##  7기 [허태정]("https://github.com/Aqudi")
+## 제작:  7기 [허태정](https://github.com/Aqudi)
 # CSS 기본
 
 [CSS](https://ko.wikipedia.org/wiki/CSS) 란 Cascading Style Sheets 의 약자로 [HTML](https://ko.wikipedia.org/wiki/HTML)이 문서의 틀을 잡아줬다면 CSS는 거기에 스타일을 입혀주는 역할을 한다. (밥과 반찬, 조미료와 같은 관계를 연상해도 된다)
